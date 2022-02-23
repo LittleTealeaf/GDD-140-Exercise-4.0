@@ -5,10 +5,10 @@ var radStep = Math.PI / 9;
 //How far away from the center should the ellipses be moved each iteration
 var distanceStep = 1;
 //Total count of the ellipses
-var count = 200;
+var count = 300;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(600, 600);
 }
 
 function draw() {
