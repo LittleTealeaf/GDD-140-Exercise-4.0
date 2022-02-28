@@ -13,7 +13,6 @@ function setup() {
 
 function draw() {
   background(220);
-  fill(255);
 
   for(var i = 0; i < count; i++) {
     //Set the fill to start as black and approach white
